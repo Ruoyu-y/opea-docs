@@ -15,6 +15,9 @@ Come learn, try, develop, and share your stories! Please submit PRs, organizing 
    * - 04/15/2025
      - `Build Your First Chatbot with OPEA In Minutes <https://www.intel.com/content/www/us/en/developer/articles/guide/build-your-first-chatbot-with-opea-in-minutes.html>`_
      - Wang Xigui, Bhandaru Malini, Sin Alex, Du dolpher, Yao Yi, Hu Ying
+   * - 04/03/2025
+     - `Unlock the power of Edge AI and speed up the landing of Generative AI (Chinese) <https://mp.weixin.qq.com/s/nqGiQFaqDyNsGcBUmQSI8w>`_
+     - Ruoyu Ying
    * - 03/14/2025
      - `Document Summarization: A Step-by-Step Guide with OPEA™ 1.2 and Intel® Gaudi® 2 <https://www.intel.com/content/www/us/en/developer/articles/technical/document-summarization-step-by-step-guide.html>`_
      - Mustafa S. Cetin, Sihan Chen, Xinyao Wang and Omar Khleif
@@ -24,6 +27,9 @@ Come learn, try, develop, and share your stories! Please submit PRs, organizing 
    * - 02/26/2025
      - `Multimodal Q&A: A Step-by-Step Guide <https://www.intel.com/content/www/us/en/developer/articles/technical/multimodal-q-and-a-step-by-step-guide.html>`_
      - Melanie Hart Buehler, Mustafa Cetin, Dina Suehiro Jones
+   * - 02/28/2025
+     - `Hit the ground running: DeepSeek exploration with one click on OPEA (Chinese)  <https://mp.weixin.qq.com/s/W95CX2Kt-5t6YnbEXcnJxg>`_
+     - Ruoyu Ying
    * - 02/18/2025
      - `Moving from Open AI to Open Source with OPEA <https://www.intel.com/content/www/us/en/content-details/847353/moving-from-open-ai-to-open-source-with-opea.html?DocID=847353>`_
      - William Fowler, Joshua Segovia, Chris Ah-Siong
